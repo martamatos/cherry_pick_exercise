@@ -2,3 +2,4 @@ potatoes
 carrots
 onions
 apples
+cabbage
